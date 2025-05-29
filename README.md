@@ -13,16 +13,16 @@ I’m a software and AI engineer with a passion for leveraging technology to sol
 ![Python](https://img.shields.io/badge/Python-2c3e50?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-e67e22?style=flat-square&logo=tensorflow) ![Streamlit](https://img.shields.io/badge/Streamlit-16a085?style=flat-square&logo=streamlit) ![JavaScript](https://img.shields.io/badge/JavaScript-f39c12?style=flat-square&logo=javascript)
 
 ## 🚀 Featured Projects
-- **LumenView**: An open-source dashboard for real-time energy monitoring, delivering actionable insights for engineers. Built with Dash and Plotly.
+- **LumenView**: An industrial SCADA dashboard for real-time energy monitoring, delivering actionable insights for engineers. Built with Dash and Plotly.
 - **hebikata**: An interactive e-learning platform designed to help tech enthusiasts master Python through practice. Built with Streamlit. [View Repository](https://github.com/Rumbleaxe/hebikata)
-- **Portfolio**: A sleek, accessible website highlighting my expertise in AI and software engineering. Built with HTML5, CSS3, and JavaScript. [View Site](https://rumbleaxe.helioho.st)
+- **Portfolio**: A sleek, accessible website highlighting my expertise in AI and software engineering. Built with Flask, HTML5, CSS3, and JavaScript. [View Site](https://rumbleaxe.helioho.st)
 
 ## 🌍 Community & Mentorship
 I’m committed to helping tech professionals grow through one-on-one Python and AI tutoring. As a former team leader for the Shell Eco Marathon’s POSEIDON team, I drove award-winning projects in power electronics. Explore my projects or collaborate with me on open-source initiatives!
-<!--
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rumbleaxe&theme=dracula&show_icons=true)
--->
+
 ## 📫 Get in Touch
 - **LinkedIn**: [ioannislazaridis](https://linkedin.com/in/ioannislazaridis)
 - **Portfolio**: [rumbleaxe.helioho.st](https://rumbleaxe.helioho.st)
