@@ -79,7 +79,7 @@ I’m a **Software & AI Engineer** passionate about leveraging technology to sol
 - 🧑‍🏫 **Mentor:** One-on-one Python & AI tutoring for tech professionals.  
 - 🏆 **Leadership:** Former team leader of Shell Eco Marathon’s POSEIDON team (award-winning power electronics).  
 - 🤝 **Open Source:** Always open to collaboration on impactful projects.  
-- 🎤 **Speaker & Writer:** [Add links if you have talks, articles, or blog posts here]  
+ 
 
 ---
 
