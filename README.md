@@ -91,9 +91,9 @@ I’m a **Software & AI Engineer** passionate about leveraging technology to sol
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumbleaxe&layout=compact&theme=dracula" alt="Top Languages" height="150"/>
 </p>
 
-<p align="center">
+
   ![Visitor Count](https://komarev.com/ghpvc/?username=Rumbleaxe&color=2c3e50)
-</p>
+
 
 ---
 
