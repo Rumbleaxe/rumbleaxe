@@ -1,6 +1,6 @@
 <!-- MAIN VISUAL BANNER -->
 <p align="center">
-  <img src="https://svgshare.com/i/15Jr.svg" alt="Ioannis Lazaridis Banner" width="100%" />
+  <img src="banner.svg" alt="Ioannis Lazaridis Banner" width="100%" />
 </p>
 
 <p align="center">
