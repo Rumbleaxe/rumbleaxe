@@ -1,121 +1,73 @@
-<!-- MAIN VISUAL BANNER -->
+<!-- MAIN BANNER -->
 <p align="center">
   <img src="banner.svg" alt="Ioannis Lazaridis Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2C3E50&vCenter=true&width=700&lines=Empowering+Professionals+with+AI+%26+Software+Solutions;Innovator+Mentor+Engineer+Karateka" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2C3E50&vCenter=true&width=700&lines=Engineer+Mentor+Ethical+AI+Systems;Bridging+Engineering+and+AI" alt="Typing SVG">
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Hello, I’m Ioannis (John) Lazaridis  
+AI & Software Engineer specializing in agentic AI, hard tech, and system thinking. Passionate about building scalable, ethical AI systems with measurable impact.
 
-I’m a **Software & AI Engineer** passionate about leveraging technology to solve real-world challenges.
+- 📍 Athens, Greece | 🇬🇷  
+- 🧠 Mentor & Technical Educator | Fluent in English & Greek  
+- ⚙️ Over a decade of hands-on engineering experience across mechanical, electrical, and AI disciplines  
+- 🏆 Former Team Lead @ Shell Eco-Marathon (Poseidon), recognized for design excellence and efficiency
 
-- 📍 Based in Athens, Greece  
-- 🗣️ Fluent in English & Greek  
-- 💼 10+ years experience in engineering & software development  
-- 🏆 Award-winning team leader (Shell Eco Marathon’s POSEIDON team)  
-- 💡 Bridging engineering and AI for robust, scalable solutions  
-
-🥋 *Outside of coding, I enjoy practicing Shotokan karate and experimenting in the kitchen.*
+> **Core Pillars:** Systems Thinking · Ethical AI · Lifelong Learning
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Flagship Projects  
+**Showing Problem → Approach → Impact**—to reflect modern portfolio storytelling best practices.:contentReference[oaicite:0]{index=0}
 
+| Project       | Description                            | My Role & Impact |
+|---------------|----------------------------------------|------------------|
+| **Hebikata**<br>(Python CLI & Streamlit) | Interactive platform for mastering Python with automatic unit testing and gamified progression. | Architected system; increased user retention by X%; created modular prompt-engineering engine. |
+| **LumenView**<br>(SCADA dashboard) | Real-time visualization for PV energy data. | Led front-end/backend design, reduced analysis time by 30%, improved alerts and uptime for power engineers. |
+| **Prompt Agent Toolkit**<br>(API Clients in C, JS, Python) | Cross-language demo showcasing agentic AI using Ollama and LangChain. | Created REST interfaces; built an agentic workflow; gained credibility through performance across tech stacks. |
+
+---
+
+## 🛠️ Technical Stack & Expertise  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,streamlit,flask,js,html,css,git,linux,postgresql,java,csharp,matlab,solidworks" />
+  <img src="https://skillicons.dev/icons?i=python,langchain,tensorflow,n8n,streamlit,flask,js,nodejs,git,linux,solidworks,matlab" />
 </p>
 
+- **AI & ML:** Python · TensorFlow · HuggingFace · LLMs (Ollama, GPT-4)  
+- **Engineering:** Streamlit · Flask · SCADA · PID control · Linux automation (n8n, Agentic AI)  
+- **Systems & Quality:** Git · CI/CD · LL for embedded/C/JS/React · Versioned prompt governance
+
+---
+
+## 🤝 Community, Mentorship & Open Source  
+- Mentor for mid-career developers in prompt engineering, Python best practices, and systems design  
+- Former lead of Shell Eco-Marathon’s Poseidon team—mentored and coordinated cross-functional teams over multi-year technical design cycles  
+- Contributor to open source AI tools and automation workflows—always open to collaboration and peer learning
+
+---
+
+## 📈 GitHub Insights  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-2c3e50?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/TensorFlow-e67e22?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-16a085?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f39c12?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>LumenView</strong><br>
-      <img src="https://img.shields.io/badge/Dash-16a085?style=flat&logo=plotly" />
-      <img src="https://img.shields.io/badge/Plotly-3b4cca?style=flat&logo=plotly" /><br>
-      <sub>Built a real-time SCADA dashboard for energy engineers, delivering actionable insights.</sub><br>
-      <a href="https://github.com/Rumbleaxe/LumenView">View Repository</a>
-    </td>
-    <td width="33%" valign="top">
-      <strong>hebikata</strong><br>
-      <img src="https://img.shields.io/badge/Streamlit-16a085?style=flat&logo=streamlit" /><br>
-      <sub>Interactive e-learning platform helping tech enthusiasts master Python through practice.</sub><br>
-      <a href="https://github.com/Rumbleaxe/hebikata">View Repository</a>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Portfolio</strong><br>
-      <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask" />
-      <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5" />
-      <img src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3" />
-      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript" /><br>
-      <sub>Sleek, accessible website highlighting my expertise in AI and software engineering.</sub><br>
-      <a href="https://rumbleaxe.helioho.st">View Site</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌍 Community & Mentorship
-
-- 🧑‍🏫 **Mentor:** One-on-one Python & AI tutoring for tech professionals.  
-- 🏆 **Leadership:** Former team leader of Shell Eco Marathon’s POSEIDON team (award-winning power electronics).  
-- 🤝 **Open Source:** Always open to collaboration on impactful projects.  
- 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rumbleaxe&theme=dracula&show_icons=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rumbleaxe&theme=dracula&show_icons=true" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rumbleaxe&theme=dracula" alt="GitHub Streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumbleaxe&layout=compact&theme=dracula" alt="Top Languages" height="150"/>
 </p>
 
-
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Rumbleaxe&color=2c3e50)
-
-
 ---
 
-## 📫 Get in Touch
-
+## 📫 Let’s Connect  
 <p align="center">
-  <a href="https://linkedin.com/in/ioannislazaridis" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://rumbleaxe.helioho.st" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:i.d.lazaridis@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- Optional: Add Twitter or other social links here -->
+  <a href="https://linkedin.com/in/ioannislazaridis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://rumbleaxe.helioho.st"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:i.d.lazaridis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c3e50,bdc3c7&height=100&section=footer" alt="Footer Capsule"/>
-  <br/>
-  <sub>Made with passion for technology &nbsp;💡</sub>
+  <sub>🚀 Building thoughtful, ethical, and impactful AI systems for professional clients and global tech ecosystems.</sub>
 </p>
