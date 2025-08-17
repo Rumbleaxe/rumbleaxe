@@ -1,6 +1,6 @@
 <!-- MAIN BANNER -->
 <p align="center">
-  <img src="banner.svg" alt="Ioannis Lazaridis Banner, Greek AI & Engineering" width="100%" />
+  <img src="banner.png" alt="Ioannis Lazaridis Banner, Greek AI & Engineering" width="100%" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2C3E50&vCenter=true&width=700&lines=Engineer+Mentor+Ethical+AI+Systems;Bridging+Engineering+and+AI" alt="Engineer Mentor Ethical AI Systems - Bridging Engineering and AI" />
