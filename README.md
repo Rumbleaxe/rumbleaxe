@@ -1,92 +1,167 @@
-<!-- MAIN BANNER -->
-<p align="center">
-  <img src="banner.png" alt="Ioannis Lazaridis Banner, Greek AI & Engineering" width="100%" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2C3E50&vCenter=true&width=700&lines=Engineer+Mentor+Ethical+AI+Systems;Bridging+Engineering+and+AI" alt="Engineer Mentor Ethical AI Systems - Bridging Engineering and AI" />
-</p>
+<div align="center">
+  <img src="banner.png" alt="Ioannis Lazaridis" width="100%" />
+</div>
+
+# Ioannis (John) Lazaridis
+
+**AI Engineer · Software Developer · Systems Architect**
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Ioannis Lazaridis"
+        self.role = "AI/Software Engineer"
+        self.location = "Athens, Greece 🇬🇷"
+        self.background = "Mechanical Engineering → Computer Science → AI"
+        
+    def current_focus(self):
+        return [
+            "Full-stack AI applications",
+            "LLM integration & AI agents",
+            "Educational platforms",
+            "Production-scale ML systems"
+        ]
+```
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://rumbleaxe.helioho.st)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:i.d.lazaridis@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/johnlazaridis)
 
 ---
 
-# 👋 Hello, I’m Ioannis (John) Lazaridis
+## 🎯 What I Do
 
-*Greek Software Engineer & AI Specialist* passionate about building ethical, scalable, and measurable AI systems, bridging classic engineering and modern automation with a focus on Hellenic innovation.
+Building intelligent systems that bridge theory and real-world impact. From LLM-powered applications to educational platforms, I focus on **scalable**, **maintainable**, and **production-ready** solutions.
 
-- 📍 Athens, Greece | 🇬🇷  
-- 🧠 Mentor & Technical Educator | Fluent in English & Greek  
-- ⚙️ Multidisciplinary: AI, ML, Mechanical/Electrical/Software Engineering  
-- 🏆 Former Team Lead @ Shell Eco-Marathon (Poseidon), recognized for design excellence and efficiency  
-- 💡 Advocate for Responsible AI, Digital Transformation, and Lifelong Learning  
-
-> **Core Pillars:**  
-> <kbd>Systems Thinking</kbd> · <kbd>Ethical AI</kbd> · <kbd>Lifelong Learning</kbd> · <kbd>Hellenic Innovation</kbd>
+### Key Achievements
+- 🏆 **Led Shell Eco-Marathon team** to Design Award & Top 10 finish (2013-2018)
+- 🎓 **Teaching excellence**: Students achieve 90-100% success rates in AI/Python
+- ⚙️ **Quality management**: Implemented ISO 9001 systems for industrial applications
+- 🔬 **Research experience**: Advanced fluid dynamics instrumentation, scholarship offers from top universities
 
 ---
 
-## 🚀 Flagship Projects
+## 💼 Featured Projects
 
-| Project | Description | Role & Impact |
-| :--- | :--- | :--- |
-| <b>Hebikata</b><br><sub>Python CLI & Streamlit</sub> | Gamified platform for mastering Python with automated testing and personalized progression. | Architected system; boosted user retention by 25%; designed modular prompt-engineering and analytics engine optimizing learner engagement. |
-| <b>LumenView</b><br><sub>SCADA Dashboard</sub> | Real-time dashboard for PV energy system monitoring, serving Greek and international engineers. | Led full-stack design; reduced analysis time by 30%; significantly improved uptime and proactive alert accuracy. |
-| <b>Prompt Agent Toolkit</b><br><sub>API Clients in C, JS, Python</sub> | Cross-language agentic AI demo using Ollama & LangChain for practical LLM adoption among Greek SMEs. | Developed RESTful APIs; engineered agentic workflows; enhanced domain-spanning tech leadership reputation. |
-| <b>This Website (Portfolio)</b><br><sub>Flask, HTML, CSS, JS</sub> | Terminal-themed digital CV showcasing professional brand and projects. | Complete design and development; elevated digital self-presentation standards in Greek tech community. |
+### 🤖 [Omninode](https://github.com/Rumbleaxe) — Full-Stack AI Platform
+End-to-end AI platform integrating multiple LLM services, workflow automation, and educational content delivery. Built for scalability and real-world deployment.
 
----
+**Tech:** Python · Flask · Streamlit · LangChain · n8n · Ollama
 
-## 🛠️ Technical Stack & Expertise
+### 🌐 [Portfolio Website](https://rumbleaxe.helioho.st)
+Modern, accessible portfolio with terminal-inspired UI, markdown-based blog, and comprehensive dark/light theming.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,langchain,tensorflow,streamlit,flask,js,nodejs,git,linux,solidworks,matlab" alt="Technical stack icons" />
-</p>
+**Tech:** Flask · Jinja2 · Vanilla JS · Responsive Design
 
-- **AI & ML:** Python, TensorFlow, Hugging Face, LLMs (Ollama, GPT-4), Diffusion Models (SD, SDXL, FLUX, QWEN, WAN2.x)  
-- **Agentic Automation:** n8n, ComfyUI, prompt engineering, LangChain integration  
-- **Engineering & Integration:** Flask, Streamlit, SCADA, PID control, Plotly Dash  
-- **DevOps & Quality:** Git, CI/CD, Linux automation, prompt version management  
-- **Full Project Lifecycle:** Requirements gathering, architecture design, coding, documentation, mentorship  
+### 📚 Hebikata — Python Learning Platform
+Gamified interactive learning system with automated testing, progressive difficulty, and achievement tracking. Applying spaced repetition and educational psychology principles.
+
+**Tech:** Python · CLI · Streamlit · Testing Frameworks
 
 ---
 
-## ✍️ Articles & Thought Leadership
+## 🛠️ Tech Stack
 
-New! ✨ [Explore my Articles](https://rumbleaxe.helioho.st/articles) on ethical AI, energy tech, and digital transformation topics relevant to the global Hellenic innovation ecosystem.
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## 🤝 Community, Mentorship & Open Source
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
-- Mentor for mid-career professionals, Greek STEM students, and diaspora AI practitioners in Python, prompt engineering, and responsible AI  
-- Led Shell Eco-Marathon (Poseidon) teams—mentored multi-year, cross-disciplinary design and innovation projects  
-- Open to collaborations with founders, researchers, and tech leaders focused on ethical AI and transformative digital strategies  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 GitHub Insights
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rumbleaxe&theme=dracula&show_icons=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rumbleaxe&theme=dracula" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumbleaxe&layout=compact&theme=dracula" alt="Top Languages" height="150" />
-</p>
-
----
-
-## 📫 Let’s Connect  
-
-<p align="center">
-  <a href="https://linkedin.com/in/johnlazaridis" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rumbleaxe.helioho.st" target="_blank" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:i.d.lazaridis@protonmail.com" title="Email"><img src="https://img.shields.io/badge/Email-6a2e2e?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <sub>🚀 Building thoughtful, transparent, and impactful AI systems for professional clients and global tech ecosystems.<br>Αναζητώντας πάντα την ελληνική καινοτομία στα ψηφιακά και ευφυή συστήματα.</sub>
-</p>
+**Core Competencies**
+- **AI/ML:** LLM integration, neural networks, genetic algorithms, multi-agent systems
+- **Web Development:** Full-stack applications, RESTful APIs, real-time systems
+- **Engineering:** Systems analysis, CAD/CAE, industrial automation, SCADA
+- **Tools:** Git, Docker, VS Code, Linux (Debian/Gentoo), Arduino
 
 ---
 
-**Feel free to reach out for collaborations, mentorship, or technology conversations with real-world impact.**
+## 📈 GitHub Stats
 
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rumbleaxe&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumbleaxe&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+## 🌱 Current Learning
+
+```yaml
+2025_Focus:
+  - CS50 AI (Harvard)
+  - Full-stack JavaScript/TypeScript
+  - Go programming
+  - Advanced AI agent architectures
+  - Production ML deployment
+
+Philosophy: "Every learning immediately applied to real projects"
+```
+
+---
+
+## 💡 What Makes Me Different
+
+- **Multi-disciplinary**: Mechanical → Electrical → Software engineering background enables unique problem-solving
+- **Systems thinking**: Build comprehensive mental models before implementation
+- **Quality-focused**: Naturally identify edge cases, failure modes, and scalability issues
+- **Proven educator**: Track record of teaching complex technical concepts effectively
+- **Production-ready**: Focus on maintainable, documented, tested code
+
+---
+
+## 📚 Background
+
+**Education**
+- BSc Mechanical Engineering — University of West Attica (2018)
+- MSc Computer Science coursework — 98% in AI course
+- Continuous self-directed learning in AI/ML (2023-present)
+
+**Experience Highlights**
+- Team Leader, POSEIDON Shell Eco-Marathon (Design Award, Top 10)
+- Quality Manager — ISO 9001 implementation
+- Research Assistant — Industrial Measurements Lab
+- Private Tutor — AI, Python, Thermodynamics, Circuit Analysis
+
+---
+
+## 🤝 Open For
+
+- **Full-time roles**: AI Engineer, Software Engineer, ML Engineer
+- **Collaboration**: Open-source AI/ML projects, educational platforms
+- **Consulting**: AI integration, system architecture, technical mentoring
+
+<div align="center">
+
+### 📫 Get In Touch
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://rumbleaxe.helioho.st)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge)](mailto:i.d.lazaridis@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/johnlazaridis)
+
+---
+
+*Building intelligent systems that matter. Logic, systems thinking, and continuous learning.*
+
+**🇬🇷 Athens, Greece** • **Open to remote opportunities worldwide**
+
+</div>
