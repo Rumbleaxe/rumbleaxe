@@ -1,126 +1,172 @@
 <div align="center">
-  <img src="banner.png" alt="Γιάννης Λαζαρίδης — AI/ML Engineer" width="100%" />
-</div>
 
-# Γιάννης Λαζαρίδης <sub>John Lazaridis</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D9FF&height=160&section=header&text=Ioannis%20(John)%20Lazaridis&fontColor=ffffff&fontSize=36&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20Systems%20Thinker%20%C2%B7%20Athens&descAlignY=78&descSize=15" width="100%" alt="Profile Header"/>
 
-**AI/ML Engineer** · Multi-Agent Systems & LLMOps · Systems Thinker · Technical Mentor  
-📍 Athens, Greece 🇬🇷 · Hybrid & Remote
+<br/>
 
-> **Building AI that holds under pressure.**  
-> *Χτίζω AI που αντέχει στην πίεση.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-rumbleaxe.helioho.st-0066FF?style=flat-square&logo=google-chrome&logoColor=white)](https://rumbleaxe.helioho.st)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-i.d.lazaridis%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:i.d.lazaridis@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ioannislazaridis-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ioannislazaridis/)
 
-<!-- Signal Strip — Campaign Core Component -->
-<div align="center">
+<br/>
 
-| 93% | 10K+ | 12/15 | 20yr |
-|:---:|:----:|:-----:|:----:|
-| Test Coverage | Daily Requests | Mentees Hired | Engineering |
+*Building AI that holds under pressure.*
 
 </div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0066FF?style=flat-square&logo=google-chrome&logoColor=white)](https://rumbleaxe.helioho.st)
-[![Email](https://img.shields.io/badge/Email-Contact-00D9FF?style=flat-square&logo=gmail&logoColor=white)](mailto:i.d.lazaridis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0066FF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ioannislazaridis)
-[![Status](https://img.shields.io/badge/●_Available_for_Work-10B981?style=flat-square)]()
+---
+
+## `$ whoami`
+
+```python
+class Engineer:
+    def __init__(self):
+        self.name       = "Ioannis (John) Lazaridis"
+        self.location   = "Athens, Greece"
+        self.background = ["Mechanical Engineering", "Quality Systems (ISO 9001)", "AI/ML Engineering"]
+
+    @property
+    def currently(self) -> list[str]:
+        return [
+            "Building production AI systems — local LLMs, RAG pipelines, agentic workflows",
+            "Teaching engineers to ship, not just demo. 12 of 15 (80%) now in AI roles.",
+            "Open to the right role. Athens or remote. Not in a hurry.",
+        ]
+```
 
 ---
 
-## About
+## What I Do
 
-Production AI/ML engineer with a foundation in **mechanical engineering** and **ISO 9001 quality management**. I build multi-agent platforms with real test coverage, persistent vector memory, and documented architecture — then mentor engineers to do the same.
+Production AI. Local-first. Multi-agent. Real tests. I also teach — 12 of 15 engineers I trained are now in AI roles.
 
-> I didn't switch careers. I zoomed out. Mechanical engineering taught me how physical systems fail. Quality management taught me how to prevent failure systematically. AI/ML is the third application of the same discipline: **building complex systems that stay reliable under real-world conditions.**
-
-**Systems Thinking** (2004–2018) → **Quality Management / ISO 9001** (2016–2017) → **AI/ML Engineering** (2023–present) — three domains, one through-line.
+A mechanical engineer looks at an LLM and sees the same problem in different notation. The discipline is identical.
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### ⚡ Dolores — Multi-Agent AI Platform
-**`production`** · v0.14.0-beta · 93% pytest coverage
+<details open>
+<summary><strong>OCRSuite — Zero-Cloud Document Processing</strong></summary>
 
-Five specialized agents (Narrator, Actor, Author, Photographer, Director) orchestrated over a single Ollama instance with persistent ChromaDB RAG memory, SSE streaming, image generation, and video synthesis. Full changelog, architecture docs, and CRISP prompt framework.
+> *A CLI pipeline that pulls text, LaTeX math, tables, and figures from degraded PDFs using vision LLMs — all local, no cloud.*
 
-**Tech:** Python · Flask · ChromaDB · Ollama · SSE · pytest · Docker  
-[Repository] · [Changelog]
+- Llama 3.2 Vision + DeepSeek-OCR via Ollama. No data leaves the machine.
+- Modular pipeline: PDF → DPI-scaled images → layout analysis → structured extraction. Each stage independently testable.
+- Shipped with SPECIFICATION.md, security AUDIT_REPORT, and five supporting technical guides.
 
-### 📚 hebikata — Live Python Learning Platform
-**`deployed`** · Apache 2.0 · Streamlit Cloud
+`Python` · `Typer CLI` · `Ollama` · `Vision LLMs` · `Rich` · `mypy` · `Ruff`
 
-Kata-based Python e-learning environment with real-time pytest validation, spaced-repetition progression, and themed exercise sets (RPG, Hacking, Crypto). Open-source governance with CONTRIBUTING.md and CODE_OF_CONDUCT.md.
+</details>
 
-**Tech:** Python · Streamlit · pytest · GitHub Actions  
-[Repository] · [Live Demo]
+<details open>
+<summary><strong>hebikata — Live Python Learning Platform</strong></summary>
 
-### 📄 OCRSuite — Zero-Cloud Document Digitization
-**`production`**
+> *Students write Python in-browser. pytest validates in real time. Three consecutive passes to advance.*
 
-Fully local document OCR pipeline using vision-capable LLMs (Llama 3.2 Vision, DeepSeek). Extracts LaTeX math, Markdown tables, and figures from degraded scans. Zero cloud dependencies — privacy-first by design. Full specification and security audit included.
+- Spaced repetition engine — learning confirmed, not assumed
+- Five themed exercise sets: RPG, Hacking, Science, Crypto, Boss
+- Deployed on Streamlit Cloud. Apache 2.0. CONTRIBUTING.md, CODE_OF_CONDUCT.md.
 
-**Tech:** Python · Vision LLMs · Ollama · Typer CLI  
-[Repository]
+`Python` · `Streamlit` · `pytest` · `Docker` · `Streamlit Cloud`
 
-### 🎬 slidesh — Dual-Runtime Presentation Compiler
-**`production`** · TypeScript monorepo
+</details>
 
-Compiles a single Markdown source to two runtimes: React web app and native ANSI terminal presenter. AST-based architecture with Shiki syntax highlighting, 5 dark themes.
+<details open>
+<summary><strong>slidesh — Dual-Runtime Presentation Compiler</strong></summary>
 
-**Tech:** TypeScript · React · pnpm · Shiki · AST  
-[Repository]
+> *One Markdown file → React web app + native ANSI terminal presenter. Typed AST architecture.*
+
+- pnpm monorepo: five packages, shared types, independent renderers
+- Five dark themes (Dracula, Nord, One Dark, Gruvbox, Solarized). Shiki syntax highlighting.
+- Built because I wanted to present from a terminal and nothing treated both outputs as first-class.
+
+`TypeScript` · `React` · `Node.js` · `pnpm` · `Shiki` · `ANSI`
+
+</details>
 
 ---
 
-## Evidence
+## Currently Building
 
-| Area | Metric | Evidence |
+| Status | Project | Details |
+|--------|---------|---------|
+| **Production** | Private multi-agent platform | Agentic AI, vector memory, SSE streaming |
+| **In Progress** | FastAPI endpoint migration | Async backends for LLM inference |
+| **In Progress** | Build Production AI course | Online course from mentorship curriculum. hebikata as practice environment. |
+| **Design Phase** | GCP Associate Cloud Engineer | Certification, Q3 2026 |
+
+---
+
+## Tech Stack
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white) ![ComfyUI](https://img.shields.io/badge/ComfyUI-1E1E1E?style=flat-square&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+
+---
+
+## Principles
+
+1. **Build systems, not scripts.** A script solves today. A system anticipates tomorrow's failure.
+2. **The best engineers make the people around them better.** Craft that can't be transferred is overhead.
+
+---
+
+## Background
+
+| Credential | Institution | Status |
 |---|---|---|
-| Production quality | 93% pytest coverage, v0.14.0-beta | Dolores CI/CD pipeline |
-| System load | 10K+ daily requests (self-reported) | Dolores production metrics |
-| Mentorship impact | 12 of 15 students now in AI roles (80%) | 24,962+ tutoring archive, hebikata platform |
-| Systems depth | 20yr continuous thread | Mech Eng BSc + ISO 9001 + AI/ML production |
-| Engineering rigor | ISO 9001 implementation, FMEA | Quality Manager, COSMETIC Tsatsos S.A. |
-| Security awareness | HSTS, CSP, bleach sanitization | Production website |
+| BSc Mechanical Engineering | University of West Attica | 2018 |
+| MSc Computer Science — AI coursework | 98% in AI module | Coursework complete |
+| CS50 + CS50AI | Harvard Online | In progress |
+| Docker & Kubernetes | Udemy | Completed June 2026 |
+
+| Role | Period |
+|---|---|
+| AI/ML Engineer (Independent) | 2023 – present |
+| Technical Mentor (12 of 15 students in AI roles) | Jan 2025 – present |
+| Quality Manager — ISO 9001 | 2016 – 2017 |
+| Shell Eco-Marathon Team Leader (Design Award, Top 10) | 2013 – 2018 |
+| Research Intern — Industrial Measurements Lab | 2013 – 2015 |
 
 ---
 
-## Stack
-
-```
-AI/ML         Python · PyTorch · Ollama · LangGraph · ChromaDB · RAG
-Backend       Flask · FastAPI · Streamlit · REST APIs · SSE
-Infra         Docker · GitHub Actions · CI/CD · Linux (Debian/Gentoo)
-Quality       pytest · mypy · Ruff · TDD · Semantic Versioning
-Frontend      TypeScript · React · Vanilla JS · CSS Design Systems
-```
-
----
-
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rumbleaxe&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0F&title_color=0066FF&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumbleaxe&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=0066FF"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Rumbleaxe&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0066FF&icon_color=00D9FF&text_color=c9d1d9"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumbleaxe&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=0066FF&text_color=c9d1d9"/>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rumbleaxe&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=0066FF&point=ffffff&area=true&area_color=0066FF)](https://github.com/Rumbleaxe)
 
 </div>
 
 ---
 
-## Connect
+## Open For
 
-I'm actively seeking a **Senior AI/ML Engineer** role at an Athens tech company. If you're building AI systems that need reliability discipline, systems thinking, and team multiplication — let's talk.
+Senior AI/ML role. Athens or remote. Agentic systems, production LLMs. Not in a hurry.
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/●_AVAILABLE_FOR_WORK-10B981?style=for-the-badge)]()
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A0A0F?style=for-the-badge&logo=google-chrome&logoColor=00D9FF)](https://rumbleaxe.helioho.st)
-[![Email](https://img.shields.io/badge/✉_Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=0066FF)](mailto:i.d.lazaridis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=0066FF)](https://linkedin.com/in/ioannislazaridis)
-
-</div>
+> [i.d.lazaridis@gmail.com](mailto:i.d.lazaridis@gmail.com) · [LinkedIn](https://linkedin.com/in/ioannislazaridis/) · [rumbleaxe.helioho.st](https://rumbleaxe.helioho.st)
 
 ---
 
-<sub>Profile theme: Tech Blue `#0066FF` · Cyber Cyan `#00D9FF` · Deep Space `#0A0A0F`</sub>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=80&section=footer" width="100%" alt="Footer"/>
+
+*From mechanical tolerances to LLM pipelines — 20 years of building systems that hold.*
+
+**Athens, Greece · Open to the right role · Systems thinking is the discipline; AI is the medium.**
+
+</div>
